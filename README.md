@@ -1,2 +1,2 @@
 # excel
-Repositório onde irei atualizando com alguns pequenos projetos feitos em excel
+Jogo da forca utilizando o excel.
